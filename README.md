@@ -1,2 +1,2 @@
-# Master_thesis
-An implementation of my research on oversampling methods based on GANs.
+Kod źródłowy pracy magisterskiej przeznaczony do uruchamiania na platformie Google Colab znajduje się w pliku praca_magisterska.ipynb.
+Przed uruchomieniem należy również przesłać na platformę Google Colab foldery znajdujące się tutaj, które zawierają testowane metody nadpróbkowania.
